@@ -2,9 +2,9 @@
 inFeed: true
 description: >-
   Our team of eco heroes, advisors, ambassadors, and partners are united by
-  purpose to protect and celebrate what we love. 
-dateModified: '2018-07-13T07:29:38.384Z'
-datePublished: '2018-07-13T07:29:39.173Z'
+  purpose to protect and celebrate what we love.
+dateModified: '2018-07-13T07:31:21.917Z'
+datePublished: '2018-07-13T07:31:22.905Z'
 title: For the love of life.
 author: []
 publisher: {}
@@ -16,6 +16,6 @@ _type: Blurb
 
 ---
 # For the love of life.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b537bd74-bd49-4069-b992-cbdaac74a588.jpg)
 
 Our team of eco heroes, advisors, ambassadors, and partners are united by purpose to protect and celebrate what we love.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b537bd74-bd49-4069-b992-cbdaac74a588.jpg)
