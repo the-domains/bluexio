@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Inspire every global citizen to harvest the rewards of Earth Positive Actions.
-dateModified: '2018-07-13T07:12:00.731Z'
-datePublished: '2018-07-13T07:12:01.750Z'
+dateModified: '2018-07-13T07:13:04.113Z'
+datePublished: '2018-07-13T07:13:04.685Z'
 title: Proof of Care
 author: []
 publisher: {}
