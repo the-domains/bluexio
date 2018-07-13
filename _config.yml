@@ -1,16 +1,16 @@
-layout_spectrum: 0.7673513340338659
-typography_spectrum: 0.06759516765206756
+layout_spectrum: 0.3480185031569056
+typography_spectrum: 0.6524162606488323
 color:
-  brandStrength: 0.9284226357607669
-  lightness: 0.9679783034893582
-  saturation: 0.8605228350372376
-  rhythmicContrast: 0.13841177500194252
+  brandStrength: 0.44301132689110273
+  lightness: 0.8945518468590545
+  saturation: 0.3951133514953648
+  rhythmicContrast: 0.7818304361440794
   brandColors:
-    - '#3E454C'
-    - '#2185C5'
-    - '#7ECEFD'
-    - '#FFF6E5'
-    - '#FF7F66'
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
 logo: null
 name: Generation Blue
 colors:
