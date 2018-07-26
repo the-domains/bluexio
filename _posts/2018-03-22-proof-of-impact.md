@@ -3,18 +3,17 @@ inFeed: true
 description: >-
   Each global citizen can harvest rewards through Earth Positive Actions that
   improve our planet for the generations to come.
-dateModified: '2018-07-26T04:56:37.246Z'
-datePublished: '2018-07-26T04:56:38.194Z'
+dateModified: '2018-07-26T04:57:09.220Z'
+datePublished: '2018-07-26T04:57:10.218Z'
 title: Proof of Care
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2018-03-22-proof-of-impact.md
-hasPage: true
+hasPage: false
 starred: false
 datePublishedOriginal: '2018-03-22T11:28:25.868Z'
-url: proof-of-care/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Proof of Care
