@@ -1,8 +1,10 @@
 ---
 inFeed: true
-description: Every global citizen can harvest rewards through Earth Positive Actions.
-dateModified: '2018-07-26T04:42:55.716Z'
-datePublished: '2018-07-26T04:42:56.511Z'
+description: >-
+  Every global citizen can harvest rewards through Earth Positive Actions that
+  leave our planet better than before.
+dateModified: '2018-07-26T04:53:29.492Z'
+datePublished: '2018-07-26T04:53:30.301Z'
 title: Proof of Care
 author: []
 publisher: {}
@@ -15,7 +17,7 @@ _type: Blurb
 ---
 # Proof of Care
 
-Every global citizen can harvest rewards through Earth Positive Actions.
+Every global citizen can harvest rewards through Earth Positive Actions that leave our planet better than before.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abbbfd53-f90d-463c-ac5c-d0c61b72d75e.jpg)
 [Subscribe to updates][0]
 
