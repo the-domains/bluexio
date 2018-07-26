@@ -1,12 +1,8 @@
 ---
 inFeed: true
-description: |-
-  Generation Blue
-  10 Anson Road
-  #27-15 International Plaza
-  Singapore 079903
-dateModified: '2018-07-13T07:58:56.659Z'
-datePublished: '2018-07-13T07:58:56.988Z'
+description: 'Generation Blue 10 Anson Road #27-15 International Plaza Singapore 079903'
+dateModified: '2018-07-26T00:10:10.145Z'
+datePublished: '2018-07-26T00:10:10.895Z'
 title: ''
 author: []
 publisher: {}
@@ -18,7 +14,6 @@ datePublishedOriginal: '2018-07-13T07:58:43.872Z'
 _type: Blurb
 
 ---
-Generation Blue
-10 Anson Road
-\#27-15 International Plaza
-Singapore 079903
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d3b9c24-b47a-4e48-bf49-3d37d934bc9b.png)
+
+Generation Blue 10 Anson Road \#27-15 International Plaza Singapore 079903
