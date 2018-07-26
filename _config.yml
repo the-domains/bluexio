@@ -13,7 +13,7 @@ color:
     - '#7FC6BC'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5117710a-971c-43a5-a48b-55637795740c.png
-name: ' '
+name: GenBlue
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -119,3 +119,4 @@ author:
     GenBlue<br/>10 Anson Road<br/>#27-15 International Plaza<br/>Singapore
     079903
   url: 'http://generation.blue'
+  email: hello@generation.blue
