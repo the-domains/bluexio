@@ -11,7 +11,8 @@ color:
     - '#EDF7F2'
     - '#4BB5C1'
     - '#7FC6BC'
-logo: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5117710a-971c-43a5-a48b-55637795740c.png
 name: Generation Blue
 colors:
   brandColors:
@@ -20,7 +21,8 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/baaf4a9a-eb90-418d-b37b-b3e953b30e64.png
 title: We believe in the future
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -114,5 +116,5 @@ analytics:
 github: true
 author:
   name: >-
-    Generation Blue<br/>10 Anson Road<br/>#27-15 International
-    Plaza<br/>Singapore 079903
+    GenBlue<br/>10 Anson Road<br/>#27-15 International Plaza<br/>Singapore
+    079903
