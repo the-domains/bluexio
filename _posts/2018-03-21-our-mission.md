@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-26T00:13:25.248Z'
-datePublished: '2018-07-26T00:13:26.825Z'
+dateModified: '2018-07-26T00:13:27.653Z'
+datePublished: '2018-07-26T00:13:28.861Z'
 title: GenBlue
 author: []
 publisher: {}
