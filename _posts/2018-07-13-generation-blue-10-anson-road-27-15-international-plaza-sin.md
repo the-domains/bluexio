@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'GenBlue 10 Anson Road #27-15 International Plaza Singapore 079903'
-dateModified: '2018-07-26T00:16:07.477Z'
-datePublished: '2018-07-26T00:16:08.236Z'
+dateModified: '2018-07-26T00:16:09.614Z'
+datePublished: '2018-07-26T00:16:10.227Z'
 title: ''
 author: []
 publisher: {}
