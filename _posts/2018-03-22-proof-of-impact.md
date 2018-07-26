@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Every global citizen can harvest rewards through Earth Positive Actions.
-dateModified: '2018-07-26T01:18:16.225Z'
-datePublished: '2018-07-26T01:18:17.041Z'
+dateModified: '2018-07-26T01:18:19.775Z'
+datePublished: '2018-07-26T01:18:20.269Z'
 title: Proof of Care
 author: []
 publisher: {}
