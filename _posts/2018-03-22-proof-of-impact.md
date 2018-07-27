@@ -4,7 +4,7 @@ description: >-
   Each global citizen can harvest rewards through Earth Positive Actions that
   improve our planet for the generations to come.
 dateModified: '2018-07-27T01:18:04.745Z'
-datePublished: '2018-07-27T01:18:05.132Z'
+datePublished: '2018-07-27T01:18:05.407Z'
 title: Proof of Care
 author: []
 publisher: {}
