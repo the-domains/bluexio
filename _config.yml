@@ -115,8 +115,6 @@ analytics:
   google: UA-113071973-1
 github: true
 author:
-  name: >-
-    GenBlue<br/>10 Anson Road<br/>#27-15 International Plaza<br/>Singapore
-    079903
+  name: ''
   url: 'http://generation.blue'
   email: hello@generation.blue
